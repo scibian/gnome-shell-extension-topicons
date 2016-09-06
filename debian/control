@@ -1,0 +1,14 @@
+Source: gnome-shell-extension-topicons
+Section: gnome
+Priority: optional
+Maintainer: Florian Gillot <florian-externe.gillot@edf.fr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://extensions.gnome.org/extension/495/topicons/
+
+Package: gnome-shell-extension-topicons
+Architecture: all
+Depends: gnome-shell ( < 3.15), gnome-shell (>= 3.8), ${misc:Depends}
+Recommends: gnome-tweak-tool
+Description: GNOME shell TopIcons
+ This gnome-shell extension shows legacy tray icons on top.

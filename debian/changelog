@@ -1,0 +1,5 @@
+gnome-shell-extension-topicons (28-0scibian1~bpo8+1) jessie; urgency=low
+
+  * Initial release.
+
+ -- Scibian Packaging Team <packaging@scibian.org>  Tue, 06 Sep 2016 10:23:45 +0200
